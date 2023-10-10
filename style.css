@@ -1,0 +1,13 @@
+
+td{
+	width:100px;
+	height:100px;
+	border: 3px solid black !important;
+	font-size: 4em;
+	text-align: center;
+	padding: auto;
+}
+table{
+	width: 40% !important;
+		margin: auto;
+}
